@@ -13,7 +13,7 @@ export default function Page({ params }: Params) {
         <>
             <h1>Slug: {params.slug}</h1>
             <p>DungTV</p>
-            <p>Welcome to NB</p>
+            {/* <p>Welcome to NB</p> */}
         </>
     );
 }
